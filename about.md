@@ -16,7 +16,9 @@ Estou sempre aberto a novas oportunidades de colaboração e troca de conhecimen
 
 ## Comunicação Segura via GPG 
 **Fingerprint**: 0201 F836 1EDD 3162 C7C0 68A6 C73F 60AA 26B6 FF75
+
 **Chave Pública**: https://keys.openpgp.org/search?q=ybraz@live.com
+
 **GPG**: gpg --keyserver hkps://keys.openpgp.org --recv-keys 0201F8361EDD3162C7C068A6C73F60AA26B6FF75
 
 ## Links
