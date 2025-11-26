@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Bem-vindo ao meu blog pessoal! Aqui, compartilho insights e reflexões sobre vários tópicos que me interessam, desde tecnologia e cibersegurança até filosofia e reflexões. Meu objetivo é promover um espaço para discussão ponderada e exploração de ideias.
+Bem-vindo ao meu site pessoal! Aqui, compartilho insights e reflexões sobre vários tópicos que me interessam, desde tecnologia e cibersegurança até filosofia e reflexões. Meu objetivo é promover um espaço para discussão ponderada e exploração de ideias.
