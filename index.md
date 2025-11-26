@@ -1,4 +1,3 @@
----
 #
 # By default, content added below the "---" mark will appear in the home page
 # between the top bar and the list of recent posts.
@@ -8,4 +7,4 @@
 layout: home
 ---
 
-Especialista em Cibersegurança e Desenvolvimento Seguro. Aprendendo Machine Learning e Inteligência Artificial. ISC² SME.
+Bem-vindo ao meu blog pessoal! Aqui, compartilho insights e reflexões sobre vários tópicos que me interessam, desde tecnologia e cibersegurança até filosofia e reflexões. Meu objetivo é promover um espaço para discussão ponderada e exploração de ideias.
