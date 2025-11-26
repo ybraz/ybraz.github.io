@@ -14,11 +14,11 @@ Minha trajetória inclui a liderança de iniciativas voltadas à integração de
 
 Estou sempre aberto a novas oportunidades de colaboração e troca de conhecimentos para promover um ecossistema digital mais seguro e preparado para os desafios futuros.
 
-## Comunicação Segura via GPG: 
-Fingerprint: 0201 F836 1EDD 3162 C7C0 68A6 C73F 60AA 26B6 FF75
-Chave Pública: https://keys.openpgp.org/search?q=ybraz@live.com
-GPG: gpg --keyserver hkps://keys.openpgp.org --recv-keys 0201F8361EDD3162C7C068A6C73F60AA26B6FF75
+## Comunicação Segura via GPG 
+**Fingerprint**: 0201 F836 1EDD 3162 C7C0 68A6 C73F 60AA 26B6 FF75
+**Chave Pública**: https://keys.openpgp.org/search?q=ybraz@live.com
+**GPG**: gpg --keyserver hkps://keys.openpgp.org --recv-keys 0201F8361EDD3162C7C068A6C73F60AA26B6FF75
 
-## Links:
+## Links
 - GitHub: [ybraz](https://github.com/ybraz)
 - LinkedIn: [Yuri Braz](https://www.linkedin.com/in/yuri-braz/)
