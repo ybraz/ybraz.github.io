@@ -2,9 +2,6 @@
 layout: post
 title: "Resolução de Problemas"
 categories: filosofia
-author:
-- Yuri Braz
-modified_date: 2025-11-26
 ---
 
 Para resolver problemas, a primeira fase e mais importante é compreender o problema corretamente. Na maioria das vezes atuamos em um sintoma e não no problema em si. Por toda nossa vida somos treinados para encontrar soluções para problemas e não para definir os problema. 
