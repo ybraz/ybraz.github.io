@@ -21,7 +21,7 @@ nav_pages:
     - about.md
 #
 #   Set to `true` to show excerpts on the homepage.
-show_excerpts: true
+show_excerpts: false
 #
 #   Minima date format.
 #     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
@@ -33,4 +33,4 @@ date_format: "%b-%d-%Y"
 #     RSS / Atom feed link is always rendered as the last item of social-links
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
-hide_site_feed_link: true
+# hide_site_feed_link: true
