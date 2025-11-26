@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Especialista em Cibersegurança e Desenvolvimento Seguro | Aprendendo Machine Learning e Inteligência Artificial | ISC² SME.
+Especialista em Cibersegurança e Desenvolvimento Seguro. Aprendendo Machine Learning e Inteligência Artificial. ISC² SME.
