@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## Sobre
-
 Olá, meu nome é Yuri Braz, especialista em cibersegurança com ampla experiência na proteção de infraestruturas on-premise e em cloud. Atualmente, estou expandindo minha atuação para o campo do machine learning, com o objetivo de desenvolver soluções de segurança inovadoras e eficazes. Também estou aprofundando meus conhecimentos na programação de agentes inteligentes em Python, além de atuar em projetos de criptografia aplicada.
 
 Meu compromisso profissional é contribuir para o desenvolvimento de estratégias e soluções robustas de cibersegurança, visando fortalecer defesas digitais e garantir sistemas resilientes contra ameaças emergentes. Acredito que a tecnologia segura e confiável é um elemento essencial para o progresso sustentável e para a construção de um ambiente digital resiliente.

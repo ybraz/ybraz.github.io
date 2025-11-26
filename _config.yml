@@ -18,7 +18,7 @@ minima:
 
 #   Navigation pages.
 nav_pages:
-    - about.md
+    - sobre.md
 #
 #   Set to `true` to show excerpts on the homepage.
 show_excerpts: false
