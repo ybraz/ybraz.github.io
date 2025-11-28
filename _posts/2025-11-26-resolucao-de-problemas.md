@@ -13,7 +13,6 @@ Para garantir que compreendemos corretamente o problema, existem duas técnicas 
 1. Garantir que exista um tempo entre a compreensão do problema e a definição da solução. Por exemplo, se tem algo que queira resolver hoje, primeiro escreva o problema em algum local. Amanhã revise e pondere se a definição do problema está correta e ainda faz sentido. Só então busque alternativas para a solução. 
 2. Faça um exercício mental para compreender se esse problema for resolvido a situação ou resultado indesejado voltará a acontecer. Se voltar a acontecer mesmo resolvendo o “problema”, isso indica que provavelmente está atuando em um sintoma e não no problema em si.
 
-
 Para o ambiente corporativo algumas técnicas relevantes são:
 1. Fazer reuniões diferentes, em dias diferentes, para primeiro definir o problema e outra para definir a solução.
 2. Nunca decidir com apenas duas opções.
