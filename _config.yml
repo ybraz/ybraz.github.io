@@ -39,4 +39,3 @@ date_format: "%d/%m/%Y"
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 # hide_site_feed_link: true
-remote_theme: "jekyll/minima@1e8a445"
