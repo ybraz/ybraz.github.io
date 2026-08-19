@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Yuri Braz
 description: "Arquiteto de segurança da informação. Escritos sobre arquitetura, identidade, nuvem e o que a técnica não resolve sozinha."
 ---
 
